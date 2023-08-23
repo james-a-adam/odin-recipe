@@ -1,2 +1,4 @@
 # odin-recipe
-My Recipe Reop
+My Recipe Repo
+
+Some recipes for tasty dishes.
